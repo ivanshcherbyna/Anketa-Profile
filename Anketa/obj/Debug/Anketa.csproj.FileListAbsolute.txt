@@ -1,0 +1,9 @@
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\Anketa\Anketa\bin\Debug\Anketa.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\Anketa\Anketa\bin\Debug\Anketa.exe
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\Anketa\Anketa\bin\Debug\Anketa.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\Anketa\Anketa\obj\Debug\Anketa.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\Anketa\Anketa\obj\Debug\Anketa.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\Anketa\Anketa\obj\Debug\Anketa.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\Anketa\Anketa\obj\Debug\Anketa.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\Anketa\Anketa\obj\Debug\Anketa.exe
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\Anketa\Anketa\obj\Debug\Anketa.pdb
